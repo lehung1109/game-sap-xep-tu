@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cat",
+    "vn": "Con có 1 con mèo 🐶",
+    "en": "I have a cat.",
+    "tokens": ["I", "have", "a", "cat"]
+  },
+  {
+    "id": "icecream",
+    "vn": "Con thích kem 🍦",
+    "en": "I like ice cream.",
+    "tokens": ["I", "like", "ice cream"]
+  },
+  {
+    "id": "water",
+    "vn": "Con uống nước 💧",
+    "en": "I drink water.",
+    "tokens": ["I", "drink", "water"]
+  },
+  {
+    "id": "books5",
+    "vn": "Con có 5 quyển sách 📚",
+    "en": "I have 5 books.",
+    "tokens": ["I", "have", "5", "books"]
+  },
+  {
+    "id": "milkteaLike",
+    "vn": "Con thích trà sữa 🧋",
+    "en": "I like milk tea.",
+    "tokens": ["I", "like", "milk tea"]
+  },
+  {
+    "id": "sisters2",
+    "vn": "Con có 2 chị gái 👭",
+    "en": "I have 2 sisters.",
+    "tokens": ["I", "have", "2", "sisters"]
+  },
+  {
+    "id": "drinkMilktea",
+    "vn": "Con uống trà sữa 🧋",
+    "en": "I drink milk tea.",
+    "tokens": ["I", "drink", "milk tea"]
+  },
+  {
+    "id": "likeClothes",
+    "vn": "Con thích quần áo 👗👕",
+    "en": "I like clothes.",
+    "tokens": ["I", "like", "clothes"]
+  },
+  {
+    "id": "drinkMilk",
+    "vn": "Con uống sữa 🥛",
+    "en": "I drink milk.",
+    "tokens": ["I", "drink", "milk"]
+  },
+  {
+    "id": "sausage",
+    "vn": "Con thích xúc xích 🌭",
+    "en": "I like sausage.",
+    "tokens": ["I", "like", "sausage"]
+  }
+]

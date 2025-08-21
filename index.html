@@ -492,70 +492,38 @@
 
     <script>
       /* ==========================================
-   DATA: Levels definition (10 levels, no punctuation; merged tokens)
+   DATA: Levels definition - Loaded from JSON file
    ========================================== */
-      const LEVELS = [
-        {
-          id: "cat",
-          vn: "Con có 1 con mèo 🐶",
-          en: "I have a cat.",
-          tokens: ["I", "have", "a", "cat"],
-        },
-        {
-          id: "icecream",
-          vn: "Con thích kem 🍦",
-          en: "I like ice cream.",
-          tokens: ["I", "like", "ice cream"],
-        },
-        {
-          id: "water",
-          vn: "Con uống nước 💧",
-          en: "I drink water.",
-          tokens: ["I", "drink", "water"],
-        },
-        {
-          id: "books5",
-          vn: "Con có 5 quyển sách 📚",
-          en: "I have 5 books.",
-          tokens: ["I", "have", "5", "books"],
-        },
-        {
-          id: "milkteaLike",
-          vn: "Con thích trà sữa 🧋",
-          en: "I like milk tea.",
-          tokens: ["I", "like", "milk tea"],
-        },
-        {
-          id: "sisters2",
-          vn: "Con có 2 chị gái 👭",
-          en: "I have 2 sisters.",
-          tokens: ["I", "have", "2", "sisters"],
-        },
-        {
-          id: "drinkMilktea",
-          vn: "Con uống trà sữa 🧋",
-          en: "I drink milk tea.",
-          tokens: ["I", "drink", "milk tea"],
-        },
-        {
-          id: "likeClothes",
-          vn: "Con thích quần áo 👗👕",
-          en: "I like clothes.",
-          tokens: ["I", "like", "clothes"],
-        },
-        {
-          id: "drinkMilk",
-          vn: "Con uống sữa 🥛",
-          en: "I drink milk.",
-          tokens: ["I", "drink", "milk"],
-        },
-        {
-          id: "sausage",
-          vn: "Con thích xúc xích 🌭",
-          en: "I like sausage.",
-          tokens: ["I", "like", "sausage"],
-        },
-      ];
+      let LEVELS = [];
+
+      // Function to load levels from JSON file
+      async function loadLevelsFromJSON() {
+        try {
+          const response = await fetch("levels.json");
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          LEVELS = await response.json();
+          console.log("Levels loaded successfully:", LEVELS);
+
+          // Initialize the game after levels are loaded
+          if (LEVELS.length > 0) {
+            loadLevel(currentLevelIndex);
+          }
+        } catch (error) {
+          console.error("Error loading levels:", error);
+          // Fallback to default levels if JSON loading fails
+          LEVELS = [
+            {
+              id: "cat",
+              vn: "Con có 1 con mèo 🐶",
+              en: "I have a cat.",
+              tokens: ["I", "have", "a", "cat"],
+            },
+          ];
+          loadLevel(currentLevelIndex);
+        }
+      }
 
       /* ==========================================
    ELEMENTS
@@ -1188,7 +1156,8 @@
       }
       function restartAll() {
         finishModal.classList.remove("show");
-        loadLevel(0);
+        currentLevelIndex = 0;
+        loadLevelsFromJSON();
       }
 
       /* ==========================================
@@ -1210,7 +1179,8 @@
       /* ==========================================
    INIT
    ========================================== */
-      loadLevel(0);
+      // Load levels from JSON file and start the game
+      loadLevelsFromJSON();
     </script>
   </body>
 </html>
