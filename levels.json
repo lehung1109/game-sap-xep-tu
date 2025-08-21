@@ -1,62 +1,62 @@
 [
   {
-    "id": "cat",
-    "vn": "Con có 1 con mèo 🐶",
-    "en": "I have a cat.",
-    "tokens": ["I", "have", "a", "cat"]
+    "id": "rice",
+    "vn": "Con ăn cơm",
+    "en": "I eat rice.",
+    "tokens": ["I", "eat", "rice"]
   },
   {
     "id": "icecream",
-    "vn": "Con thích kem 🍦",
-    "en": "I like ice cream.",
-    "tokens": ["I", "like", "ice cream"]
+    "vn": "Con ăn kem 🍦",
+    "en": "I eat ice cream.",
+    "tokens": ["I", "eat", "ice cream"]
   },
   {
-    "id": "water",
-    "vn": "Con uống nước 💧",
-    "en": "I drink water.",
-    "tokens": ["I", "drink", "water"]
+    "id": "noodles",
+    "vn": "Con ăn mì",
+    "en": "I eat noodles.",
+    "tokens": ["I", "eat", "noodles"]
   },
   {
-    "id": "books5",
-    "vn": "Con có 5 quyển sách 📚",
-    "en": "I have 5 books.",
-    "tokens": ["I", "have", "5", "books"]
+    "id": "chips",
+    "vn": "Con ăn bim bim",
+    "en": "I eat chips.",
+    "tokens": ["I", "eat", "chips"]
   },
   {
-    "id": "milkteaLike",
-    "vn": "Con thích trà sữa 🧋",
-    "en": "I like milk tea.",
-    "tokens": ["I", "like", "milk tea"]
+    "id": "banhchung",
+    "vn": "Con ăn bánh chưng",
+    "en": "I eat banh chung.",
+    "tokens": ["I", "eat", "banh chung"]
   },
   {
-    "id": "sisters2",
-    "vn": "Con có 2 chị gái 👭",
-    "en": "I have 2 sisters.",
-    "tokens": ["I", "have", "2", "sisters"]
+    "id": "fish",
+    "vn": "Con ăn cá",
+    "en": "I eat fish",
+    "tokens": ["I", "eat", "fish"]
   },
   {
-    "id": "drinkMilktea",
-    "vn": "Con uống trà sữa 🧋",
-    "en": "I drink milk tea.",
-    "tokens": ["I", "drink", "milk tea"]
+    "id": "sausages",
+    "vn": "Con ăn xúc xích",
+    "en": "I eat sausages.",
+    "tokens": ["I", "eat", "sausages"]
   },
   {
-    "id": "likeClothes",
-    "vn": "Con thích quần áo 👗👕",
-    "en": "I like clothes.",
-    "tokens": ["I", "like", "clothes"]
+    "id": "hamburgers",
+    "vn": "Con ăn bánh hamburger ",
+    "en": "I eat hamburgers.",
+    "tokens": ["I", "eat", "hamburgers"]
   },
   {
-    "id": "drinkMilk",
-    "vn": "Con uống sữa 🥛",
-    "en": "I drink milk.",
-    "tokens": ["I", "drink", "milk"]
+    "id": "bananas",
+    "vn": "Con ăn chuối",
+    "en": "I eat bananas",
+    "tokens": ["I", "eat", "bananas"]
   },
   {
-    "id": "sausage",
-    "vn": "Con thích xúc xích 🌭",
-    "en": "I like sausage.",
-    "tokens": ["I", "like", "sausage"]
+    "id": "vegetables",
+    "vn": "Con ăn rau",
+    "en": "I eat vegetables.",
+    "tokens": ["I", "eat", "vegetables"]
   }
 ]
