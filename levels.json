@@ -58,5 +58,17 @@
     "vn": "Con ăn rau",
     "en": "I eat vegetables.",
     "tokens": ["I", "eat", "vegetables"]
+  },
+  {
+    "id": "popcorn",
+    "vn": "Con ăn bỏng ngô",
+    "en": "I eat popcorn.",
+    "tokens": ["I", "eat", "popcorn"]
+  },
+  {
+    "id": "meat",
+    "vn": "Con ăn thịt",
+    "en": "I eat meat.",
+    "tokens": ["I", "eat", "meat"]
   }
 ]
