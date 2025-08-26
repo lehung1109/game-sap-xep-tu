@@ -1,74 +1,134 @@
 [
   {
-    "id": "rice",
-    "vn": "Con ăn cơm",
-    "en": "I eat rice.",
-    "tokens": ["I", "eat", "rice"]
+    "id": "mother",
+    "vn": "Mẹ của con",
+    "en": "My mother.",
+    "tokens": ["My", "mother"]
   },
   {
-    "id": "icecream",
-    "vn": "Con ăn kem 🍦",
-    "en": "I eat ice cream.",
-    "tokens": ["I", "eat", "ice cream"]
+    "id": "father",
+    "vn": "Bố của con",
+    "en": "My father.",
+    "tokens": ["My", "father"]
   },
   {
-    "id": "noodles",
-    "vn": "Con ăn mì",
-    "en": "I eat noodles.",
-    "tokens": ["I", "eat", "noodles"]
+    "id": "sister",
+    "vn": "My sister",
+    "en": "Chị gái của con.",
+    "tokens": ["My", "sister"]
   },
   {
-    "id": "chips",
-    "vn": "Con ăn bim bim",
-    "en": "I eat chips.",
-    "tokens": ["I", "eat", "chips"]
+    "id": "sisters",
+    "vn": "Những chị gái của con",
+    "en": "My sisters",
+    "tokens": ["My", "sisters"]
   },
   {
-    "id": "banhchung",
-    "vn": "Con ăn bánh chưng",
-    "en": "I eat banh chung.",
-    "tokens": ["I", "eat", "banh chung"]
+    "id": "grandmother",
+    "vn": "Bà của con",
+    "en": "My grandmother.",
+    "tokens": ["My", "grandmother"]
   },
   {
-    "id": "fish",
-    "vn": "Con ăn cá",
-    "en": "I eat fish",
-    "tokens": ["I", "eat", "fish"]
+    "id": "clothes",
+    "vn": "Quần áo của con",
+    "en": "My clothes.",
+    "tokens": ["My", "clothes"]
   },
   {
-    "id": "sausages",
-    "vn": "Con ăn xúc xích",
-    "en": "I eat sausages.",
-    "tokens": ["I", "eat", "sausages"]
+    "id": "hamburger",
+    "vn": "Bánh hamburger của con ",
+    "en": "My hamburger.",
+    "tokens": ["My", "hamburgers"]
   },
   {
-    "id": "hamburgers",
-    "vn": "Con ăn bánh hamburger ",
-    "en": "I eat hamburgers.",
-    "tokens": ["I", "eat", "hamburgers"]
+    "id": "ice cream",
+    "vn": "Kem của con",
+    "en": "My ice cream",
+    "tokens": ["My", "ice cream"]
   },
   {
-    "id": "bananas",
-    "vn": "Con ăn chuối",
-    "en": "I eat bananas",
-    "tokens": ["I", "eat", "bananas"]
-  },
-  {
-    "id": "vegetables",
-    "vn": "Con ăn rau",
-    "en": "I eat vegetables.",
-    "tokens": ["I", "eat", "vegetables"]
-  },
-  {
-    "id": "popcorn",
-    "vn": "Con ăn bỏng ngô",
-    "en": "I eat popcorn.",
-    "tokens": ["I", "eat", "popcorn"]
+    "id": "milk",
+    "vn": "Sữa của con",
+    "en": "My milk.",
+    "tokens": ["My", "milk"]
   },
   {
     "id": "meat",
     "vn": "Con ăn thịt",
     "en": "I eat meat.",
     "tokens": ["I", "eat", "meat"]
+  },
+  {
+    "id": "face",
+    "vn": "Mặt của con",
+    "en": "My face.",
+    "tokens": ["My", "face"]
+  },
+  {
+    "id": "hand",
+    "vn": "Tay của con (một tay)",
+    "en": "My hand.",
+    "tokens": ["My", "hand"]
+  },
+  {
+    "id": "hands",
+    "vn": "Những tay của con (2 tay)",
+    "en": "My hands.",
+    "tokens": ["My", "hands"]
+  },
+  {
+    "id": "foot",
+    "vn": "Chân của con (một chân)",
+    "en": "My foot.",
+    "tokens": ["My", "foot"]
+  },
+  {
+    "id": "feet",
+    "vn": "Nhũng chân của con (2 chân)",
+    "en": "My feet.",
+    "tokens": ["My", "feet"]
+  },
+  {
+    "id": "hair",
+    "vn": "Tóc của con",
+    "en": "My hair.",
+    "tokens": ["My", "hair"]
+  },
+  {
+    "id": "bike",
+    "vn": "Xe đạp của con",
+    "en": "My bike.",
+    "tokens": ["My", "bike"]
+  },
+  {
+    "id": "washface",
+    "vn": "Con rửa mặt của con",
+    "en": "I wash my face.",
+    "tokens": ["I", "wash", "my face"]
+  },
+  {
+    "id": "washhand",
+    "vn": "Con rửa tay của con",
+    "en": "I wash my hands.",
+    "tokens": ["I", "wash", "my hands"]
+  },
+  {
+    "id": "washhair",
+    "vn": "Con gội (rửa) tóc của con",
+    "en": "I wash my hair.",
+    "tokens": ["I", "wash", "my hair"]
+  },
+  {
+    "id": "washfeet",
+    "vn": "Con rửa chân của con",
+    "en": "I wash feet.",
+    "tokens": ["I", "wash", "my feet"]
+  },
+  {
+    "id": "bike",
+    "vn": "Con rửa xe đạp của con",
+    "en": "I wash my bike.",
+    "tokens": ["I", "wash", "my bike"]
   }
 ]
