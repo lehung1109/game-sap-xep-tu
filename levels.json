@@ -39,7 +39,7 @@
     "id": "hamburger",
     "vn": "Bánh hamburger của con ",
     "en": "My hamburger.",
-    "tokens": ["My", "hamburgers"]
+    "tokens": ["My", "hamburger"]
   },
   {
     "id": "ice cream",
