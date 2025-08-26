@@ -54,12 +54,6 @@
     "tokens": ["My", "milk"]
   },
   {
-    "id": "meat",
-    "vn": "Con ăn thịt",
-    "en": "I eat meat.",
-    "tokens": ["I", "eat", "meat"]
-  },
-  {
     "id": "face",
     "vn": "Mặt của con",
     "en": "My face.",
