@@ -90,12 +90,6 @@
     "tokens": ["My", "hair"]
   },
   {
-    "id": "bike",
-    "vn": "Xe đạp của con",
-    "en": "My bike.",
-    "tokens": ["My", "bike"]
-  },
-  {
     "id": "washface",
     "vn": "Con rửa mặt của con",
     "en": "I wash my face.",
@@ -124,5 +118,47 @@
     "vn": "Con rửa xe đạp của con",
     "en": "I wash my bike.",
     "tokens": ["I", "wash", "my bike"]
+  },
+  {
+    "id": "laptop",
+    "vn": "Con mua 1 chiếc laptop",
+    "en": "I buy a laptop.",
+    "tokens": ["I", "buy", "a", "laptop"]
+  },
+  {
+    "id": "piano",
+    "vn": "Con mua 1 chiếc đàn piano",
+    "en": "I buy a piano.",
+    "tokens": ["I", "buy", "a", "piano"]
+  },
+  {
+    "id": "icecream12",
+    "vn": "Con mua 1 chiếc kem",
+    "en": "I buy an ice cream.",
+    "tokens": ["I", "buy", "an", "ice cream"]
+  },
+  {
+    "id": "pen",
+    "vn": "Con mua 2 chiếc bút mực",
+    "en": "I buy a laptop.",
+    "tokens": ["I", "buy", "two", "pens"]
+  },
+  {
+    "id": "crayon",
+    "vn": "Con mua 1 hộp bút màu",
+    "en": "I buy a box of crayons.",
+    "tokens": ["I", "buy", "a box of", "crayons"]
+  },
+  {
+    "id": "clothes",
+    "vn": "Con mua quần áo mói",
+    "en": "I buy clothes.",
+    "tokens": ["I", "buy", "new", "clothes"]
+  },
+  {
+    "id": "new bag",
+    "vn": "Con mua 1 chiếc cặp mới",
+    "en": "I buy a new bag .",
+    "tokens": ["I", "buy", "a", "new", "bag"]
   }
 ]
