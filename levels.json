@@ -140,7 +140,7 @@
   {
     "id": "pen",
     "vn": "Con mua 2 chiếc bút mực",
-    "en": "I buy a laptop.",
+    "en": "I buy two pens.",
     "tokens": ["I", "buy", "two", "pens"]
   },
   {
@@ -152,7 +152,7 @@
   {
     "id": "clothes",
     "vn": "Con mua quần áo mói",
-    "en": "I buy clothes.",
+    "en": "I buy new clothes.",
     "tokens": ["I", "buy", "new", "clothes"]
   },
   {
