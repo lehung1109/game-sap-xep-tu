@@ -1,164 +1,32 @@
 [
   {
-    "id": "mother",
-    "vn": "Mẹ của con",
-    "en": "My mother.",
-    "tokens": ["My", "mother"]
-  },
-  {
-    "id": "father",
-    "vn": "Bố của con",
-    "en": "My father.",
-    "tokens": ["My", "father"]
-  },
-  {
-    "id": "sister",
-    "vn": "Chị gái của con",
-    "en": "My sister.",
-    "tokens": ["My", "sister"]
-  },
-  {
-    "id": "sisters",
-    "vn": "Những chị gái của con",
-    "en": "My sisters",
-    "tokens": ["My", "sisters"]
-  },
-  {
-    "id": "grandmother",
-    "vn": "Bà của con",
-    "en": "My grandmother.",
-    "tokens": ["My", "grandmother"]
-  },
-  {
-    "id": "clothes",
-    "vn": "Quần áo của con",
-    "en": "My clothes.",
-    "tokens": ["My", "clothes"]
-  },
-  {
-    "id": "hamburger",
-    "vn": "Bánh hamburger của con ",
-    "en": "My hamburger.",
-    "tokens": ["My", "hamburger"]
-  },
-  {
-    "id": "ice cream",
-    "vn": "Kem của con",
-    "en": "My ice cream",
-    "tokens": ["My", "ice cream"]
-  },
-  {
-    "id": "milk",
-    "vn": "Sữa của con",
-    "en": "My milk.",
-    "tokens": ["My", "milk"]
-  },
-  {
-    "id": "face",
-    "vn": "Mặt của con",
-    "en": "My face.",
-    "tokens": ["My", "face"]
-  },
-  {
-    "id": "hand",
-    "vn": "Tay của con (một tay)",
-    "en": "My hand.",
-    "tokens": ["My", "hand"]
-  },
-  {
-    "id": "hands",
-    "vn": "Những tay của con (2 tay)",
-    "en": "My hands.",
-    "tokens": ["My", "hands"]
-  },
-  {
-    "id": "foot",
-    "vn": "Chân của con (một chân)",
-    "en": "My foot.",
-    "tokens": ["My", "foot"]
-  },
-  {
-    "id": "feet",
-    "vn": "Nhũng chân của con (2 chân)",
-    "en": "My feet.",
-    "tokens": ["My", "feet"]
-  },
-  {
-    "id": "hair",
-    "vn": "Tóc của con",
-    "en": "My hair.",
-    "tokens": ["My", "hair"]
-  },
-  {
-    "id": "washface",
-    "vn": "Con rửa mặt của con",
-    "en": "I wash my face.",
-    "tokens": ["I", "wash", "my face"]
-  },
-  {
-    "id": "washhand",
-    "vn": "Con rửa tay của con",
-    "en": "I wash my hands.",
-    "tokens": ["I", "wash", "my hands"]
-  },
-  {
-    "id": "washhair",
-    "vn": "Con gội (rửa) tóc của con",
-    "en": "I wash my hair.",
-    "tokens": ["I", "wash", "my hair"]
-  },
-  {
-    "id": "washfeet",
-    "vn": "Con rửa chân của con",
-    "en": "I wash my feet.",
-    "tokens": ["I", "wash", "my feet"]
-  },
-  {
-    "id": "bike",
-    "vn": "Con rửa xe đạp của con",
-    "en": "I wash my bike.",
-    "tokens": ["I", "wash", "my bike"]
-  },
-  {
-    "id": "laptop",
-    "vn": "Con mua 1 chiếc laptop",
-    "en": "I buy a laptop.",
-    "tokens": ["I", "buy", "a", "laptop"]
-  },
-  {
     "id": "piano",
-    "vn": "Con mua 1 chiếc đàn piano",
-    "en": "I buy a piano.",
-    "tokens": ["I", "buy", "a", "piano"]
+    "vn": "Con chơi đàn piano",
+    "en": "I play the piano.",
+    "tokens": ["I", "play", "piano"]
   },
   {
-    "id": "icecream12",
-    "vn": "Con mua 1 chiếc kem",
-    "en": "I buy an ice cream.",
-    "tokens": ["I", "buy", "an", "ice cream"]
+    "id": "games",
+    "vn": "Con chơi game",
+    "en": "I play games.",
+    "tokens": ["I", "play", "games"]
   },
   {
-    "id": "pen",
-    "vn": "Con mua 2 chiếc bút mực",
-    "en": "I buy two pens.",
-    "tokens": ["I", "buy", "two", "pens"]
+    "id": "badminton",
+    "vn": "Con chơi cầu lông",
+    "en": "I play badminton.",
+    "tokens": ["My", "play", "badminton"]
   },
   {
-    "id": "crayon",
-    "vn": "Con mua 1 hộp bút màu",
-    "en": "I buy a box of crayons.",
-    "tokens": ["I", "buy", "a box of", "crayons"]
+    "id": "hide and seek",
+    "vn": "Con chơi trốn tìm",
+    "en": "I play hide and seek",
+    "tokens": ["I", "play", "hide and seek"]
   },
   {
-    "id": "clothes",
-    "vn": "Con mua quần áo mói",
-    "en": "I buy new clothes.",
-    "tokens": ["I", "buy", "new", "clothes"]
-  },
-  {
-    "id": "new bag",
-    "vn": "Con mua 1 chiếc cặp mới",
-    "en": "I buy a new bag .",
-    "tokens": ["I", "buy", "a", "new", "bag"]
+    "id": "with",
+    "vn": "Con chơi với chị gái của con",
+    "en": "I play with my sister.",
+    "tokens": ["I", "play", "with", "my sister"]
   }
 ]
